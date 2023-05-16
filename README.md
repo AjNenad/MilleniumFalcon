@@ -1,2 +1,2 @@
 # Hi there!
-This is my first html game, I hope you will enjoy it ;)
+I eddited some code from "W3Schools" resource and created my first html game. I hope you will enjoy it ;)
